@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{% if page.url contains '-en' %}en{% else %}es{% endif %}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title | escape }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description | escape }}">
+  {% else %}
+  <meta name="description" content="{{ site.description | escape }}">
+  {% endif %}
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <ul class="menu">
+        {% if page.url contains '-en' %}
+          {%- for item in site.nav_en -%}
+            <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+          {%- endfor -%}
+        {% else %}
+          {%- for item in site.nav_es -%}
+            <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+          {%- endfor -%}
+        {% endif %}
+      </ul>
+
+      <!-- Language switcher -->
+      <div class="lang-switch">
+        {% assign current = page.url %}
+        {% if current == '/' or current == '' %}
+          <!-- Home ES -> link to EN home -->
+          <a href="{{ '/index-en' | relative_url }}">EN</a>
+        {% elsif current contains '-en' %}
+          <!-- Any EN page -> link to ES counterpart -->
+          {% if current == '/index-en' or current == '/index-en.html' %}
+            <a href="{{ '/' | relative_url }}">ES</a>
+          {% else %}
+            <a href="{{ current | replace:'-en','' | relative_url }}">ES</a>
+          {% endif %}
+        {% else %}
+          <!-- Any ES page -> link to EN counterpart -->
+          {% if current == '/index.html' or current == '/' %}
+            <a href="{{ '/index-en' | relative_url }}">EN</a>
+          {% else %}
+            <a href="{{ current | replace:'.html','' | append:'-en' | relative_url }}">EN</a>
+          {% endif %}
+        {% endif %}
+      </div>
+    </nav>
+  </header>
+
+  <main class="content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>© {{ site.time | date: "%Y" }} Marisa Alemany — Data Management Consultant (CDMP)</p>
+  </footer>
+</body>
+</html>
