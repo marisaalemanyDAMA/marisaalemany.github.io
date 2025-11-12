@@ -32,10 +32,6 @@ Cada proyecto ha tenido como objetivo **mejorar la gestión, el valor y la confi
 ### 🚀Implantación de CRM e integración de datos con Legacy y Billing	European Telecom Austria (telco)	Dos años	Implantación MQ Series IBM Java / Sybase
 ### 🚀Implantación de CRM e integración de datos con Legacy y Billing	Jazztel (telco)	Tres años	Implantación MQ Series IBM C++/Sybase	
 
-### 🚀 Metodología de madurez del dato para el Cabildo de Tenerife
-Adaptación de modelos de madurez basados en **DAMA y PMO**, orientados a diagnosticar y priorizar acciones de mejora en gestión del dato.  
-**Resultado:** identificación de brechas estratégicas y diseño de un plan de evolución a tres años.
-
 ### 🧩 Prueba de concepto: Data Fabric con Talend Cloud
 Diseño e implementación de una **arquitectura Data Fabric** conectando diferentes fuentes y catálogos de metadatos en la nube.  
 **Objetivo:** demostrar el valor de la integración inteligente del dato mediante flujos automatizados.  
