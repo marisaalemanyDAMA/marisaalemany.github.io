@@ -1,10 +1,10 @@
 title: "Marisa Alemany — Data Management Consultant (CDMP)"
-description: "Consultora freelance experta en Gestión del Dato, Gobierno del Dato, Calidad, Metadata e Interoperabilidad."
+description: "Freelance consultant specialized in Data Governance, Data Quality, Metadata, Interoperability and Data Fabric."
 theme: jekyll-theme-minimal
 show_downloads: false
 
-# Navegación principal
-nav:
+# Navegación principal (Español)
+nav_es:
   - name: "Inicio"
     link: /
   - name: "Sobre mí"
@@ -15,3 +15,17 @@ nav:
     link: /portfolio
   - name: "Contacto"
     link: /contact
+
+# Main navigation (English)
+nav_en:
+  - name: "Home"
+    link: /index-en
+  - name: "About"
+    link: /about-en
+  - name: "Services"
+    link: /services-en
+  - name: "Projects"
+    link: /portfolio-en
+  - name: "Contact"
+    link: /contact-en
+
