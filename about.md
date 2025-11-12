@@ -11,7 +11,7 @@ description: "Consultora freelance experta en Gestión del Dato (CDMP), especial
 Soy **Marisa Alemany**, consultora freelance certificada en **Data Management (CDMP)** con más de diez años de experiencia en gestión y gobierno del dato.  
 Mi especialidad es **implantar marcos de Gobierno del Dato sostenibles**, diseñar **modelos de datos alineados con la estrategia del negocio**, y promover una **cultura del dato basada en valor, calidad y confianza**.
 
-He trabajado con integraciones data-driven para telecos nacionales e internacionales con Java, C++ y herramientas de IBM. Modelos canónicos sobre una Arquitectura de Información con plataformas hub publush and subscribe entre CRM y aplicaciones legadas. Proyectos de Master Data Management con Talend e IBM Infosphere y Generando Arquitectura de la Información para empresas grandes de distribución.
+He trabajado con integraciones data-driven para telecos nacionales e internacionales con Java, C++ y herramientas de IBM y TIBCO. Modelos canónicos sobre una Arquitectura de Información con plataformas hub publush and subscribe entre CRM y aplicaciones legadas. Proyectos de Master Data Management con Talend e IBM Infosphere y Generando Arquitectura de la Información para empresas grandes de distribución.
 También he liderado proyectos de **madurez del dato y Gobierno del Dato** en administraciones públicas y empresas tecnológicas y entidades del sector sanitario.
 
 Combino la **rigurosidad técnica** con la **visión estratégica**, ayudando a transformar datos dispersos en activos con propósito.  
