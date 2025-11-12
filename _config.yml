@@ -1,0 +1,6 @@
+title: "Marisa Alemany"
+description: "Data Management & Data Goverment Consultancy |DAMA Training |Data Fabric"
+theme: jekyll-theme-cayman
+show_downloads: false
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
