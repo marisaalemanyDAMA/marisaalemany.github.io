@@ -1,6 +1,17 @@
-title: "Marisa Alemany"
-description: "Data Management & Data Goverment Consultancy |DAMA Training |Data Fabric"
-theme: jekyll-theme-cayman
+title: "Marisa Alemany — Data Management Consultant (CDMP)"
+description: "Consultora freelance experta en Gestión del Dato, Gobierno del Dato, Calidad, Metadata e Interoperabilidad."
+theme: jekyll-theme-minimal
 show_downloads: false
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
+
+# Navegación principal
+nav:
+  - name: "Inicio"
+    link: /
+  - name: "Sobre mí"
+    link: /about
+  - name: "Servicios"
+    link: /services
+  - name: "Portfolio"
+    link: /portfolio
+  - name: "Contacto"
+    link: /contact
