@@ -1,7 +1,27 @@
 title: "Marisa Alemany — Data Management Consultant (CDMP)"
-description: "Freelance consultant specialized in Data Governance, Data Quality, Metadata, Interoperability and Data Fabric."
+description: "Consultora freelance experta en Gobierno del Dato, Calidad del Dato, Metadata, Interoperabilidad y Data Fabric. Más de 10 años de experiencia en proyectos DAMA-DMBOK2 para administraciones públicas, tecnología y sanidad."
+url: "https://marisaalemany.github.io"
+author: "Marisa Alemany"
+language: "es"
+
 theme: jekyll-theme-minimal
 show_downloads: false
+
+# Palabras clave SEO
+keywords: 
+  - Marisa Alemany
+  - Data Management Consultant
+  - Gobierno del Dato
+  - Calidad del Dato
+  - Metadata Management
+  - Interoperabilidad
+  - Data Fabric
+  - DAMA DMBOK2
+  - CDMP
+  - Consultora freelance datos
+  - freelance data management
+  - data governance freelance
+
 
 # Navegación principal (Español)
 nav_es:
@@ -28,4 +48,3 @@ nav_en:
     link: /portfolio-en
   - name: "Contact"
     link: /contact-en
-
