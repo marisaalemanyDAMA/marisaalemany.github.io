@@ -11,9 +11,6 @@ I’m **Marisa Alemany**, a **Certified Data Management Professional (CDMP)** wi
 
 I specialize in **implementing sustainable Data Governance frameworks**, designing **data models aligned with business strategy**, and fostering a **data-driven culture built on value, quality, and trust**.
 
-I’ve worked with tools such as **Talend**, **QlikView**, and **cloud-based Data Fabric platforms**.  
-My projects include **data governance maturity models and frameworks** for public administrations, technology companies, and healthcare institutions.
-
 I combine **technical rigor** with **strategic insight**, helping organizations transform fragmented data into trusted, actionable knowledge.  
 I believe in an **ethical, integrative, and practical** approach to Data Management: technology must serve people and purpose.
 
