@@ -1,0 +1,18 @@
+/* TITULOS */
+h1.custom-title {
+    color: #1d4ed8;
+    font-weight: 700;
+}
+
+h2.custom-section {
+    color: #2563eb;
+    margin-top: 2rem;
+}
+
+/* BLOQUES PRE */
+pre.custom-block {
+    padding: 1rem;
+    border-left: 4px solid #2563eb;
+    background: #f8fafc;
+    white-space: pre-wrap;
+}
