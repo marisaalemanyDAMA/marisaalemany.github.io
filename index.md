@@ -25,6 +25,4 @@ Creo firmemente que **una buena gestión del dato es la base para la Inteligenci
 ➡️ [Contacto](contact.md)  
 ➡️ [Blog](blog.md)
 
-## Último artículo publicado
-📘 **Cómo construir una Estrategia del Dato sin herramientas**  
-➡️ [Leer artículo completo](/blog/gobierno_sin_herramienta.md)
+
