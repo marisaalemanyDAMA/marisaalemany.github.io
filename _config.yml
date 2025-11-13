@@ -3,6 +3,8 @@ description: "Freelance consultant specialized in Data Governance, Data Quality,
 theme: jekyll-theme-minimal
 show_downloads: false
 markdown: GFM
+kramdown:
+  parse_block_html: true
 # Navegación principal (Español)
 nav_es:
   - name: "Inicio"
