@@ -1,18 +1,39 @@
 /* TITULOS */
-h1.custom-title {
+.custom-title {
     color: #1d4ed8;
     font-weight: 700;
-}
-
-h2.custom-section {
-    color: #2563eb;
     margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
-/* BLOQUES PRE */
-pre.custom-block {
+.custom-section {
+    color: #2563eb;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* BLOQUES DE CONTENIDO */
+.custom-block {
     padding: 1rem;
     border-left: 4px solid #2563eb;
     background: #f8fafc;
+    white-space: pre-wrap;
+    font-size: 0.95rem;
+}
+
+/* BLOQUE AZUL SUAVE */
+.custom-block-blue {
+    background: #eef2ff;
+    border-left: 4px solid #4338ca;
+    padding: 1rem;
+    white-space: pre-wrap;
+}
+
+/* BLOQUE AMARILLO */
+.custom-block-yellow {
+    background: #fef9c3;
+    border-left: 4px solid #eab308;
+    padding: 1rem;
     white-space: pre-wrap;
 }
