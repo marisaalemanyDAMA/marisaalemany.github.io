@@ -4,14 +4,14 @@ title: "Cómo construir una Estrategia del Dato sin herramientas"
 description: "Artículo profesional sobre estrategia del dato, gobierno del dato y madurez sin necesidad de software."
 ---
 
-<h1 style="color:#1d4ed8;">Cómo construir una Estrategia del Dato sin herramientas</h1>
+# <span class="custom-title">Cómo construir una Estrategia del Dato sin herramientas</span>
 
 La mayoría de organizaciones creen que para iniciar el Gobierno del Dato necesitan una herramienta.  
 La realidad es la contraria: **puedes construir toda la Estrategia del Dato sin ninguna plataforma**.
 
 ---
 
-<h2 style="color:#2563eb;">1. Define la visión del dato</h2>
+## <span class="custom-section">1. Define la visión del dato</span>
 
 Sin software. Sin catálogos. Sin automatización.  
 Solo **claridad estratégica**:
@@ -21,7 +21,7 @@ Solo **claridad estratégica**:
 - ¿Qué decisiones dependen de él?
 - ¿Qué cultura queremos fomentar?
 
-<pre style="border-left:4px solid #2563eb; padding:1rem; background:#f8fafc;">
+<pre class="custom-block">
 Visión del Dato
  ├─ Propósito
  ├─ Problema que resuelve
@@ -31,13 +31,13 @@ Visión del Dato
 
 ---
 
-<h2 style="color:#2563eb;">2. Identifica los dominios de dato críticos</h2>
+## <span class="custom-section">2. Identifica los dominios de dato críticos</span>
 
 Sin inventarios masivos.  
 Sin tooling.  
 Solo sesiones con negocio.
 
-<pre style="background:#f1f5f9; padding:1rem;">
+<pre class="custom-block">
 Mapa de Dominios
  ├─ Clientes
  ├─ Productos
@@ -48,23 +48,22 @@ Mapa de Dominios
 
 ---
 
-<h2 style="color:#2563eb;">3. Analiza la cadena de valor del dato</h2>
+## <span class="custom-section">3. Analiza la cadena de valor del dato</span>
 
-Este gráfico se puede hacer en una pizarra. Y es suficiente.
+Este gráfico se puede hacer en una pizarra.
 
-<pre style="background:#f8fafc; padding:1rem;">
-Cadena de Valor del Dato
+<pre class="custom-block-blue">
 [Origen] → [Transformación] → [Consumo] → [Decisiones] → [Valor]
         ↘ Riesgos ↙        ↘ Incidencias ↙
 </pre>
 
 ---
 
-<h2 style="color:#2563eb;">4. Prioriza casos de uso con impacto</h2>
+## <span class="custom-section">4. Prioriza casos de uso con impacto</span>
 
 Nada sofisticado. Solo impacto vs esfuerzo.
 
-<pre style="background:#eef2ff; padding:1rem;">
+<pre class="custom-block-blue">
   Impacto ↑
           |  ★ Alto impacto / Baja dificultad
           |  (empezar aquí)
@@ -77,7 +76,7 @@ Nada sofisticado. Solo impacto vs esfuerzo.
 
 ---
 
-<h2 style="color:#2563eb;">5. Define principios rectores del dato</h2>
+## <span class="custom-section">5. Define principios rectores del dato</span>
 
 Son la base del modelo operativo:
 
@@ -89,12 +88,9 @@ Son la base del modelo operativo:
 
 ---
 
-<h2 style="color:#2563eb;">6. Construye la hoja de ruta del dato</h2>
+## <span class="custom-section">6. Construye la hoja de ruta del dato</span>
 
-Sin herramientas.  
-Solo dirección y prioridades claras.
-
-<pre style="background:#fef9c3; padding:1rem;">
+<pre class="custom-block-yellow">
 Roadmap del Dato
  1. Alineamiento estratégico
  2. Modelo operativo (roles)
@@ -107,9 +103,8 @@ Roadmap del Dato
 
 ---
 
-<h2 style="color:#1d4ed8;">Conclusión</h2>
+# <span class="custom-title">Conclusión</span>
 
 El Gobierno del Dato no empieza con la tecnología.  
 Empieza con la **dirección**, la **visión**, las **personas** y la **cultura**.  
 La herramienta solo acelera lo que ya está definido.
-
