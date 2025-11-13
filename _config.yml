@@ -29,3 +29,6 @@ nav_en:
   - name: "Contact"
     link: /contact-en
 
+markdown: GFM
+kramdown:
+  parse_block_html: true
